@@ -84,6 +84,4 @@ It focuses on:
 
 ### *Academic project demonstrating practical usage of C++ programming and Data Structures concepts.*
 
- =============================================================
-|| # *⭐ Thank you for using the Movie Recommendation System!*||
- =============================================================
+# *⭐ Thank you for using the Movie Recommendation System!*
