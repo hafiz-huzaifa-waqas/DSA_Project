@@ -8,9 +8,9 @@ The Movie Recommendation System is a console-based application developed in C++ 
 
 The system provides two operational modes:
 
-Admin Mode – Manage movie records (add or delete movies)
+*Admin Mode* – Manage movie records (add or delete movies)
 
-User Mode – Search, browse, and get recommendations
+*User Mode* – Search, browse, and get recommendations
 
 The project demonstrates practical implementation of Data Structures, File Handling, and Algorithmic Searching & Sorting concepts.
 
@@ -32,53 +32,53 @@ It focuses on:
   
 ### 👨‍💼 Admin Mode
 
-Secure login authentication
+- Secure login authentication
 
-Add new movies to the database
+- Add new movies to the database
 
-Delete movies by name or selection
+- Delete movies by name or selection
 
-Automatic file updating
+- Automatic file updating
 
 ### 👤 User Mode
 
-Search movie by name (partial matching supported)
+- Search movie by name (partial matching supported)
 
-Browse movies by genre
+- Browse movies by genre
 
-Browse movies by category
+- Browse movies by category
 
-View movies alphabetically (A–Z sorting)
+- View movies alphabetically (A–Z sorting)
 
-Find movies by starting letter
+- Find movies by starting letter
 
-Get movie recommendations based on selected movie genre
+- Get movie recommendations based on selected movie genre
 
 ## 🧠 Concepts & Data Structures Used
 
-Vectors → Dynamic storage and processing of movies
+- Vectors → Dynamic storage and processing of movies
 
-Linked List → Recommendation system implementation
+- Linked List → Recommendation system implementation
 
-Tree Structure → Genre and category hierarchy
+- Tree Structure → Genre and category hierarchy
 
-File Handling → Persistent storage (movies.txt)
+- File Handling → Persistent storage (movies.txt)
 
-Sorting Algorithms → Alphabetical ordering
+- Sorting Algorithms → Alphabetical ordering
 
-String Processing → Case-insensitive searching
+- String Processing → Case-insensitive searching
 
 ## 🚀 Future Improvements
 
-GUI version (Qt / Web Interface)
+- GUI version (Qt / Web Interface)
 
-Rating-based recommendations
+- Rating-based recommendations
 
-User accounts & watch history
+- User accounts & watch history
 
-Advanced recommendation algorithms
+- Advanced recommendation algorithms
 
-Database integration (SQL)
+- Database integration (SQL)
 
 ## 👨‍💻 Developed For
 
