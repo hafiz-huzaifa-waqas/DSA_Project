@@ -1,0 +1,47 @@
+Inception	Sci-Fi	Hollywood
+Interstellar	Sci-Fi	Hollywood
+The Matrix	Sci-Fi	Hollywood
+Avatar	Sci-Fi	Hollywood
+Tenet	Sci-Fi	Hollywood
+Gravity	Sci-Fi	Hollywood
+Blade Runner 2049	Sci-Fi	Hollywood
+Ex Machina	Sci-Fi	Hollywood
+John Wick	Action	Hollywood
+Mad Max	Action	Hollywood
+The Dark Knight	Action	Hollywood
+Mission Impossible	Action	Hollywood
+Gladiator	Action	Hollywood
+Die Hard	Action	Hollywood
+Terminator 2	Action	Hollywood
+Avengers Endgame	Action	Hollywood
+Annabelle	Horror	Hollywood
+The Conjuring	Horror	Hollywood
+IT	Horror	Hollywood
+Hereditary	Horror	Hollywood
+The Nun	Horror	Hollywood
+Insidious	Horror	Hollywood
+The Hangover	Comedy	Hollywood
+Mr Bean	Comedy	Hollywood
+Superbad	Comedy	Hollywood
+Step Brothers	Comedy	Hollywood
+Dumb and Dumber	Comedy	Hollywood
+Titanic	Romance	Hollywood
+The Notebook	Romance	Hollywood
+La La Land	Romance	Hollywood
+A Star Is Born	Romance	Hollywood
+Dangal	Drama	Bollywood
+3 Idiots	Comedy	Bollywood
+PK	Comedy	Bollywood
+Kabir Singh	Romance	Bollywood
+Pathaan	Action	Bollywood
+Baahubali	Action	Tollywood
+RRR	Action	Tollywood
+Pushpa	Action	Tollywood
+K.G.F Chapter 1	Action	Tollywood
+K.G.F Chapter 2	Action	Tollywood
+Arjun Reddy	Drama	Tollywood
+Ala Vaikunthapurramuloo	Comedy	Tollywood
+Waar	Action	Lollywood
+The Legend of Maula Jatt	Action	Lollywood
+Jawani Phir Nahi Ani	Comedy	Lollywood
+Punjab Nahi Jaungi	Romance	Lollywood
